@@ -30,6 +30,11 @@
                 <default>false</default>
                 <label>Never</label>
             </value>
+            <value>
+                <fullName>Sometimes</fullName>
+                <default>false</default>
+                <label>Sometimes</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
