@@ -25,6 +25,11 @@
                 <default>false</default>
                 <label>Maybe</label>
             </value>
+            <value>
+                <fullName>Never</fullName>
+                <default>false</default>
+                <label>Never</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
